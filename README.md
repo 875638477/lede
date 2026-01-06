@@ -180,9 +180,3 @@ PS > git clone https://github.com/coolsnowwolf/lede <your_local_lede_path>
 3. QCA IPQ60xx 开源仓库地址：<https://github.com/coolsnowwolf/openwrt-gl-ax1800>
 
 4. 存档版本仓库地址：<https://github.com/coolsnowwolf/openwrt>
-
-## 捐贈
-
-如果你觉得此项目对你有帮助，可以捐助我们，以鼓励项目能持续发展，更加完善
-
- ![star](doc/star.png)
